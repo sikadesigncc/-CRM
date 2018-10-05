@@ -1,0 +1,6 @@
+frmLogin = 176, 65, 955, 529, C, 22, 29, 646, 478, C
+frmMain = 44, 58, 849, 540, C, 0, 0, 860, 643, C
+frmCustomer = 0, 0, 0, 0, C, 110, 145, 915, 627, C
+frmAddCustomer = 0, 0, 0, 0, C, 0, 0, 805, 482, C
+modCreateConnection = 164, 268, 955, 732, C
+frmManageUser = -20, 216, 771, 680, C, 44, 58, 818, 592, C
